@@ -7,9 +7,7 @@ O aplicativo permite adicionar tarefas com **nome e descrição**, exibindo os i
 
 ## 👨‍💻 Desenvolvido por
 
-- **Luis Felipe de Oliveira Borges** 
-- **Pedro Gabriel Souza Silva**
-- **João Paulo Ribeiro de Aguiar** 
+- **Luis Felipe de Oliveira Borges**
 
 ---
 
